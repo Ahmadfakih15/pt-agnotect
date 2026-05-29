@@ -1,0 +1,17 @@
+/* Google Fonts - WAJIB DI BARIS PERTAMA */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+
+/* Tailwind CSS - BARIS KEDUA */
+@import "tailwindcss";
+
+/* CSS Reset */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { font-family: 'Inter', sans-serif; overflow-x: hidden; }
+
+/* Custom Scrollbar */
+::-webkit-scrollbar { width: 10px; }
+::-webkit-scrollbar-track { background: #f1f1f1; }
+::-webkit-scrollbar-thumb { background: linear-gradient(to bottom, #059669, #0d9488); border-radius: 5px; }
+::-webkit-scrollbar-thumb:hover { background: linear-gradient(to bottom, #047857, #0f766e); }
+::selection { background: #059669; color: white; }
