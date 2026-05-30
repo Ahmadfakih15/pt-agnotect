@@ -56,25 +56,25 @@ projects: [
   {
     title: "Power Distribution System",
     category: "Industrial",
-    image: "https://picsum.photos/seed/power1/600/400",
+    image: "/images/gambar2.jpeg",  // Gunakan path relatif ke public
     description: "Instalasi sistem distribusi daya untuk pabrik manufaktur"
   },
   {
     title: "Commercial Building Electrical",
     category: "Commercial",
-    image: "https://picsum.photos/seed/building2/600/400",
+    image: "/images/gambar3.jpeg",
     description: "Sistem kelistrikan gedung perkantoran modern"
   },
   {
     title: "Infrastructure Lighting",
     category: "Infrastructure",
-    image: "https://picsum.photos/seed/light3/600/400",
+    image: "/images/gambar4.jpeg",
     description: "Penerangan jalan dan infrastruktur publik"
   },
   {
     title: "Industrial Control System",
     category: "Industrial",
-    image: "https://picsum.photos/seed/control4/600/400",
+    image: "/images/gambar5.jpeg",
     description: "Instalasi sistem kontrol industri otomatisasi"
   }
 ],
