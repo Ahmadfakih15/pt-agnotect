@@ -51,32 +51,33 @@ const COMPANY = {
     }
   ],
 
-  projects: [
-    {
-      title: "Power Distribution System",
-      category: "Industrial",
-      image: "src/assets/gambar3.jpeg",
-      description: "Instalasi sistem distribusi daya untuk pabrik manufaktur"
-    },
-    {
-      title: "Commercial Building Electrical",
-      category: "Commercial",
-      image: "src/assets/gambar4.jpeg",
-      description: "Sistem kelistrikan gedung perkantoran modern"
-    },
-    {
-      title: "Infrastructure Lighting",
-      category: "Infrastructure",
-      image: "src/assets/gambar5.jpeg",
-      description: "Penerangan jalan dan infrastruktur publik"
-    },
-    {
-      title: "Industrial Control System",
-      category: "Industrial",
-      image: "src/assets/gambar6.jpeg",
-      description: "Instalasi sistem kontrol industri otomatisasi"
-    }
-  ],
+// Cari bagian projects di const COMPANY dan ganti dengan ini:
+projects: [
+  {
+    title: "Power Distribution System",
+    category: "Industrial",
+    image: "https://picsum.photos/seed/power1/600/400",
+    description: "Instalasi sistem distribusi daya untuk pabrik manufaktur"
+  },
+  {
+    title: "Commercial Building Electrical",
+    category: "Commercial",
+    image: "https://picsum.photos/seed/building2/600/400",
+    description: "Sistem kelistrikan gedung perkantoran modern"
+  },
+  {
+    title: "Infrastructure Lighting",
+    category: "Infrastructure",
+    image: "https://picsum.photos/seed/light3/600/400",
+    description: "Penerangan jalan dan infrastruktur publik"
+  },
+  {
+    title: "Industrial Control System",
+    category: "Industrial",
+    image: "https://picsum.photos/seed/control4/600/400",
+    description: "Instalasi sistem kontrol industri otomatisasi"
+  }
+],
 
   clients: [
     { name: "Manufacturing Co.", logo: "🏭" },
