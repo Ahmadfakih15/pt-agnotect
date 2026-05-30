@@ -55,25 +55,25 @@ const COMPANY = {
   {
     title: "Power Distribution System",
     category: "Industrial",
-    image: "'/src/assets/project1.jpeg'",
+    image: "'/public/assets/project1.jpeg'",
     description: "Instalasi sistem distribusi daya untuk pabrik manufaktur"
   },
   {
     title: "Commercial Building Electrical",
     category: "Commercial",
-    image: "'/src/assets/project2.jpeg'",
+    image: "'/public/assets/project2.jpeg'",
     description: "Sistem kelistrikan gedung perkantoran modern"
   },
   {
     title: "Infrastructure Lighting",
     category: "Infrastructure",
-    image: "'/src/assets/project3.jpeg'",
+    image: "'/public/assets/project3.jpeg'",
     description: "Penerangan jalan dan infrastruktur publik"
   },
   {
     title: "Industrial Control System",
     category: "Industrial",
-    image: "'/src/assets/project4.jpeg'",
+    image: "'/public/assets/project4.jpeg'",
     description: "Instalasi sistem kontrol industri otomatisasi"
   }
 ],
