@@ -55,25 +55,25 @@ const COMPANY = {
   {
     title: "Power Distribution System",
     category: "Industrial",
-    image: "https://placehold.co/800x600/059669/ffffff?text=Power+Distribution",
+    image: "'/src/assets/project1.jpeg'",
     description: "Instalasi sistem distribusi daya untuk pabrik manufaktur"
   },
   {
     title: "Commercial Building Electrical",
     category: "Commercial",
-    image: "https://placehold.co/800x600/0d9488/ffffff?text=Commercial+Building",
+    image: "'/src/assets/project2.jpeg'",
     description: "Sistem kelistrikan gedung perkantoran modern"
   },
   {
     title: "Infrastructure Lighting",
     category: "Infrastructure",
-    image: "https://placehold.co/800x600/047857/ffffff?text=Infrastructure",
+    image: "'/src/assets/project3.jpeg'",
     description: "Penerangan jalan dan infrastruktur publik"
   },
   {
     title: "Industrial Control System",
     category: "Industrial",
-    image: "https://placehold.co/800x600/065f46/ffffff?text=Industrial+Control",
+    image: "'/src/assets/project4.jpeg'",
     description: "Instalasi sistem kontrol industri otomatisasi"
   }
 ],
