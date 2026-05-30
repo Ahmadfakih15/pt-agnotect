@@ -1,10 +1,10 @@
-/* Google Fonts - WAJIB DI BARIS PERTAMA */
+/* 1. Google Fonts (WAJIB PALING ATAS) */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
 
-/* Tailwind CSS - BARIS KEDUA */
+/* 2. Tailwind CSS */
 @import "tailwindcss";
 
-/* CSS Reset */
+/* 3. CSS Reset & Custom */
 * { margin: 0; padding: 0; box-sizing: border-box; }
 html { scroll-behavior: smooth; }
 body { font-family: 'Inter', sans-serif; overflow-x: hidden; }
